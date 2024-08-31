@@ -1,0 +1,37 @@
+97X2xBIKRKerdp-AqyjWoA, S8/Sommaire
+CMcWxAFfSF26GTc45whpnA, S8/Qualité De Service
+TD QoS 1, S8/TD QoS
+lOIGb8B-Se2LCKsoT1wRXg, S8/Cours Interconnexion
+GmPfWRETTAu8BukrPGsdzg, S8/TD1-Interconnexion
+Interco TD 2, S8/TD2-Interconnexion
+Reseaux Mobiles, S8/Réseaux Mobiles
+BP9ZH7mSSaqOF0Rdo0VO_A, S8/OpenMP
+nlcKSZs5TgSAs2xgmBpY5g, S8/Architecture des Systèmes d’exploitation
+u-zFZH96RrGB3kGe31WBYw, S8/TD1 Architecture des Systèmes d'exploitation
+ASE TD 2, S8/TD2 Architecture des Systèmes d'exploitation
+ASE TD 3, S8/TD3 Architecture des Systèmes d'exploitation
+ASE TD 4, S8/TD4 Architecture des Systèmes d'exploitation
+ASE TD 5, S8/TD5 Architecture des Systèmes d'exploitation
+SSpWbOdiTGWRIOTjE661QA, S8/Sécurité
+Reseaux Mobiles, S8/Réseaux Mobiles
+TD R%C3%A9seaux Mobiles, S8/TD Réseaux Mobiles
+Eval de perf, S8/Evaluation de performances
+Appli Web, S8/Application Web
+fiche-traduction-langages, S7/TDL/fiche-TDL
+trad-languages-TD, S7/TDL/TDs-TDL
+graphes-td, S7/TD-graphes
+S7, S7/Sommaire
+Cours Internet, S7/Cours Internet
+Systèmes Concurrents, S7/Systèmes Concurrents
+Archi, S7/Archi
+Archi Multiplexeur, S7/Archi Multiplexeur
+TD Systèmes Concurrents, S7/TD Systèmes Concurrents
+TD Archi, S7/TD Archi
+TD Internet, S7/TD Internet
+TD Réseaux Locaux, S7/TD Réseaux Locaux
+Réseaux Locaux, S7/Réseaux Locaux
+poly-automne-2024, Poly/automne-2024/Sommaire
+INF8101, Poly/automne-2024/INF8101 - Analyse de cyberrisques
+INF8102, Poly/automne-2024/INF8102 - Sécurité dans les environnements infonuagiques
+INF8402, Poly/automne-2024/INF8402 - Sécurité des réseaux fixes et mobiles
+LOG8100, Poly/automne-2024/LOG8100 - DevSecOps
