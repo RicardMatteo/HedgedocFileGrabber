@@ -51,6 +51,12 @@ If you prefer, you can skip creating the `cookies.txt` file, and the script will
 
 **Recommendation**: It is highly recommended to manually retrieve and input the session cookie yourself, as this ensures the highest chance of success. Automatic retrieval is available as a fallback but should not be relied upon.
 
-### Change the HOST value
+### 3. Change the HOST value
 
 Go in the `HedgedocFileGrabber.py` file and change the HOST if needeed.
+
+### 4. Important to know
+
+The script download everything each time you use with without checking if the file changed or not.
+
+The current `config.txt` file is an example and you can/have to delete everything in it to have your own custom config.
